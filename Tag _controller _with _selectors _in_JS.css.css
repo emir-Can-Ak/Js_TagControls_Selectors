@@ -1,0 +1,16 @@
+.addTextArea{
+    color: white;
+    background-color: rgba(255, 0, 0, 0.7);
+}
+.RemoveTextArea{
+    color: white;
+    background-color: rgba(0, 255, 0, 0.7);
+}
+.RemoveTextArea2{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.7);
+}
+.TakeFirstToBottom{
+    color: white;
+    background-color: rgba(50, 100, 150, 0.7);
+}
